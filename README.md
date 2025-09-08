@@ -15,6 +15,7 @@ Fetches a quote of the day from [BrainyQuote.com](https://www.brainyquote.com) a
     -   Love
     -   Nature
 -   **Template Customization**: Personalize how quotes are formatted when inserted (default is a quote callout block).
+-   **Works on Mobile**: since this is a really basic plugin, i could do without any node libraries, so its mobile friendly.
 
 ---
 
