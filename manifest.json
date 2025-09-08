@@ -3,7 +3,7 @@
 	"name": "BrainyQuote",
 	"version": "0.0.1",
 	"minAppVersion": "1.8.0",
-	"description": "Fetches and inserts quotes from brainyquote.com, created for personal use and as a learning opportunity.",
+	"description": "Fetches and inserts quotes from brainyquote.com.",
 	"author": "danhoernchen",
 	"authorUrl": "https://github.com/danhoernchen",
 	"fundingUrl": "https://buymeacoffee.com/danhoernchen",
