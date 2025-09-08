@@ -1,13 +1,4 @@
-import {
-	App,
-	Editor,
-	MarkdownView,
-	Modal,
-	Notice,
-	Plugin,
-	PluginSettingTab,
-	Setting,
-} from "obsidian";
+import { App, Editor, Plugin, PluginSettingTab, Setting } from "obsidian";
 import getQuote from "./getQuote";
 
 // Remember to rename these classes and interfaces!
