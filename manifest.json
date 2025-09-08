@@ -2,7 +2,7 @@
 	"id": "brainy-quote",
 	"name": "BrainyQuote",
 	"version": "0.0.1",
-	"minAppVersion": "0.15.0",
+	"minAppVersion": "1.8.0",
 	"description": "Fetches and inserts quotes from brainyquote.com, created for personal use and as a learning opportunity.",
 	"author": "danhoernchen",
 	"authorUrl": "https://github.com/danhoernchen",
