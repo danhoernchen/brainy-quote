@@ -1,6 +1,6 @@
 # 🌟 BrainyQuote Daily Quote for Obsidian
 
-Bring daily inspiration into your Obsidian vault with **BrainyQuote Daily Quote**! This plugin fetches a quote of the day from [BrainyQuote.com](https://www.brainyquote.com) and inserts it directly into the currently open file.
+Fetches a quote of the day from [BrainyQuote.com](https://www.brainyquote.com) and inserts it directly into the currently open file.
 
 ---
 
