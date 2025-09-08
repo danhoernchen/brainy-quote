@@ -43,4 +43,4 @@ If you have ideas, feedback, or encounter any issues, feel free to reach out or 
 
 Thank you for checking out **BrainyQuote Daily Quote**. I hope it adds a little extra inspiration to your day!
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png)](https://www.buymeacoffee.com/danhoernchen)
+<a href="https://www.buymeacoffee.com/danhoernchen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
