@@ -100,7 +100,7 @@ class BrainyQuoteSettingTab extends PluginSettingTab {
 		const { containerEl } = this;
 
 		containerEl.empty();
-		containerEl.createEl("h1", { text: "Brainy Quote" });
+		new Setting(containerEl).setName("BrainyQuote").setHeading();
 
 		new Setting(containerEl)
 			.setName("Layout")
@@ -115,7 +115,6 @@ class BrainyQuoteSettingTab extends PluginSettingTab {
 						this.plugin.settings.layoutSetting = value;
 						await this.plugin.saveSettings();
 					})
-					.then((text) => (text.inputEl.style.width = "100%"))
 			);
 
 		new Setting(containerEl)
